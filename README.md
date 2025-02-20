@@ -2,6 +2,10 @@
 - 👀 I'm a passionate Java enthusiast with a keen interest in full-stack development. Currently, I'm dedicated to expanding my skills and knowledge in this field.
 - 🌱 Skills & Interests
 * Java
+* python
+* c
+* sql
+* oops
 * Full-Stack Development
 - 💞️ I’m looking to collaborate on
 -     Open-source projects
